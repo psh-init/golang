@@ -5,12 +5,10 @@ import (
 	"os"
 )
 
-// Model
 type User struct {
 	Name string
 }
 
-// In-memory storage
 var users []User
 
 // Add user

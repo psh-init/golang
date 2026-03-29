@@ -1,0 +1,17 @@
+
+basic data types in go:
+1. bool
+2. string
+3. int, int8, int16, int32, int64
+4. uint, uint8, uint16, uint32, uint64
+5. float32, float64
+6. complex64, complex128	
+
+aggregate data types in go:
+1. array
+2. struct
+3. pointer
+4. slice
+5. map
+6. channel	
+
